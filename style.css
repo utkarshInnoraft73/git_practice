@@ -4,3 +4,6 @@
   box-sizing: border-box;
   font-size: 2rem;
 }
+p{
+  font-family: 'Courier New', Courier, monospace;
+}
